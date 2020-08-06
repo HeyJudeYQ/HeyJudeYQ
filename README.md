@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HeyJudeYQ)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HeyJudeYQ/HeyJudeYQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
