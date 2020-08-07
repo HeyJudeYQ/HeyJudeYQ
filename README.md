@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif>
-
-Front-end Development
+FE
