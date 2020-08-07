@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif
+
+<https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif>
+
 Front-end Development
